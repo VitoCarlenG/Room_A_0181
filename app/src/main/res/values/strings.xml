@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Room_A_0181</string>
+    <string name="todo_list_judul">Todo list judul</string>
+    <string name="todo_list">todo list</string>
+    <string name="reset">Reset</string>
+    <string name="tambah">Tambah</string>
+</resources>
